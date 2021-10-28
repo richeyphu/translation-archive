@@ -2,7 +2,8 @@
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B776HM2cZWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+
+---
 
 もしも僕が今晩のカレーを   
 Moshimo boku ga konban no karee wo  
@@ -164,7 +165,7 @@ Kimi no koe mo kimi no egao mo
 Mirenai mama dakedo sore mo ii kamo.  
 ฉันรับรู้ไม่ได้เลย แต่แบบนี้มันก็อาจจะดีมั้ง  
 
-<br>
+---
 
 ## T/N
 *สวัสดีครับผม akara ฝากผลงานแปลเพลงชิ้นแรกด้วยครับ สามารถติชมหรือแนะนำได้ครับ ขอบคุณที่แวะเขามาอ่านนะครับ 0w0*  
