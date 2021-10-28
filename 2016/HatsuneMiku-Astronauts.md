@@ -1,5 +1,9 @@
 # [แปลเพลง] Hatsune Miku - Astronauts (アストロノーツ)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B776HM2cZWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 もしも僕が今晩のカレーを   
 Moshimo boku ga konban no karee wo  
 ถ้าหากว่าฉันกินแกงกะหรี่จนหมดในคืนนี้  
