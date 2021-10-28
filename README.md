@@ -1,4 +1,4 @@
-# Welcome to my Translation Archive!
+# ชั้นเก็บงานแปล
 สวัสดีครับทุกคนนน ยินดีต้อนรับสู่แหล่งร่วมงานแปล(เพลง)เก่า ๆ ของผมเอง =w=
 
 ## Translation List
