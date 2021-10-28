@@ -1,6 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
 body * {
     font-family: $base-font-family;
 }
-
-
-@import "{{ site.theme }}";
