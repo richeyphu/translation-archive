@@ -1,2 +1,2 @@
 # translation-archive
-An archive of my old translation
+An archive of my old translations
