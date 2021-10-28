@@ -174,4 +174,4 @@ Mirenai mama dakedo sore mo ii kamo.
 > RIP Powapowa-P (ぽわぽわP) 1995-2015
 
 
-> *เผยแพร่ครั้งแรกเมื่อ 8/10/2016 ทางเพจ [Akaraプ](https://www.facebook.com/AkaraSellegg/)*
+> *เผยแพร่ครั้งแรกเมื่อ 8/10/2016 ทางเพจ [Akaraプ](https://www.facebook.com/notes/4450482041689008/)*
