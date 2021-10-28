@@ -1,1 +1,6 @@
+title: Translation Archive
+description: ชั้นเก็บงานแปลของ Akara
+google_analytics:
 theme: jekyll-theme-minimal
+plugins:
+   - jekyll-seo-tag
