@@ -1,6 +1,7 @@
 # ชั้นเก็บงานแปลของ Akara
 สวัสดีครับทุกคนนน ยินดีต้อนรับสู่แหล่งร่วมงานแปล(เพลง)เก่า ๆ ของผมเอง =w=  
-กำลังลองค่อย ๆ ทยอยย้ายจาก Facebook Notes มาลงใน GitHub Pages ดู (กลัวว่ามันจะหายไปจริง ๆ 555)
+ลองทยอยย้ายจาก <a rel="facebook" href="https://www.facebook.com/notes/3226017577509118/" target="_blank">Facebook Notes</a> มาลงใน [GitHub Pages](https://richeyphu.github.io/translation-archive/) ดู (กลัวว่ามันจะหายไปจริง ๆ หลังจากที่เฟซปิดฟีเจอร์นี้นานแล้ว 555)  
+เดี๋ยวค่อย ๆ ย้ายมาลงเรื่อย ๆ นะ
 
 ## Translations List
 
@@ -13,6 +14,8 @@
 ### 2016
 - [[แปลเพลง] Hatsune Miku - Astronauts (アストロノーツ)](2016/HatsuneMiku-Astronauts.md)
 
+
+[![Facebook Page](https://img.shields.io/badge/Akaraプ-Like-blue?style=social&logo=facebook)](https://www.facebook.com/AkaraSellegg)
 ---
 
 ## Licenses
