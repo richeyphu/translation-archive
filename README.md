@@ -16,6 +16,7 @@
 
 
 [![Facebook Page](https://img.shields.io/badge/Akaraプ-Like-blue?style=social&logo=facebook)](https://www.facebook.com/AkaraSellegg)
+
 ---
 
 ## Licenses
