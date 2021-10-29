@@ -16,6 +16,8 @@
 
 
 [![Facebook Page](https://img.shields.io/badge/Akaraプ-Like-blue?style=social&logo=facebook)](https://www.facebook.com/AkaraSellegg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/akara1337?style=social)](https://twitter.com/intent/follow?screen_name=akara1337)
+[![GitHub followers](https://img.shields.io/github/followers/richeyphu?style=social)](https://github.com/richeyphu)
 
 ---
 
