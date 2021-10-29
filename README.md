@@ -15,7 +15,7 @@
 - [[แปลเพลง] nachi - Tobidase! Bankikki (とびだせ！バンキッキ)](https://www.facebook.com/notes/1036441386768605/)
 
 ### 2017
-- [[แปลเพลง] Yorushika - “Say to”](https://www.facebook.com/notes/668767020448971/)
+- [[แปลเพลง] Yorushika - “Say to” 「言って。」](https://www.facebook.com/notes/668767020448971/)
 - [[แปลเพลง] IA - Shouheki (牆壁)](https://www.facebook.com/notes/989044221571397/)
 - [[แปลเพลง] Mel ft. IA - Platonic Love (プラトニック・ラヴ)](https://www.facebook.com/notes/1252641738423657/)
 - [[แปลเพลง] ALiCE'S EMOTiON - Kizuato (キズアト)](https://www.facebook.com/notes/804884400052705/)
