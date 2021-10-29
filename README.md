@@ -6,12 +6,24 @@
 ## Translations List
 
 ### 2018
-- ...
+- [[แปลเพลง] Out of Survice feat. IA - Tokyo Real World (東京リアルワールド)](https://www.facebook.com/notes/676629013236179/)
+- [[แปลเพลง] Miraie & MiniM - Shiny Wishes 🌻](https://www.facebook.com/notes/401500631258790/)
+- [[แปลเพลง] FELT - Our Ship](https://www.facebook.com/notes/1037026140051675/)
+- [[แปลเพลง] NOMA - Brain Power](https://www.facebook.com/notes/366715554529394/)
+- [[แปลเพลง] Camellia ft. nanahira - Bassdrop freaks (ベィスドロップ・フリークス) (Game Size)](https://www.facebook.com/notes/2880252112261997/)
+- [[แปลเพลง] DECO\*27 ft. Tia - Magical Flavor (maimai MiLK)](https://www.facebook.com/notes/2768196736725996/)
+- [[แปลเพลง] nachi - Tobidase! Bankikki (とびだせ！バンキッキ)](https://www.facebook.com/notes/1036441386768605/)
 
 ### 2017
-- ...
+- [[แปลเพลง] Yorushika - “Say to”](https://www.facebook.com/notes/668767020448971/)
+- [[แปลเพลง] IA - Shouheki (牆壁)](https://www.facebook.com/notes/989044221571397/)
+- [[แปลเพลง] Mel ft. IA - Platonic Love (プラトニック・ラヴ)](https://www.facebook.com/notes/1252641738423657/)
+- [[แปลเพลง] ALiCE'S EMOTiON - Kizuato (キズアト)](https://www.facebook.com/notes/804884400052705/)
+- [[แปลมั่วปลาลวกจิ้ม] Endorfin. - Luminous Rage](https://www.facebook.com/notes/338934687412509/)
+- [[แปลเพลง] Remo Prototype (CV: Hanamori Yumiri) - Sendan Life +รีวิว](https://www.facebook.com/notes/388447588853116/)
 
 ### 2016
+- [[แปลเพลง] HATSUNE MIKU V4X - Melody (English version)](https://www.facebook.com/notes/666071590711225/)
 - [[แปลเพลง] Hatsune Miku - Astronauts (アストロノーツ)](2016/HatsuneMiku-Astronauts.md)
 
 ---
