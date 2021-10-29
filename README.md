@@ -20,7 +20,7 @@
 - [[แปลเพลง] Mel ft. IA - Platonic Love (プラトニック・ラヴ)](https://www.facebook.com/notes/1252641738423657/)
 - [[แปลเพลง] ALiCE'S EMOTiON - Kizuato (キズアト)](https://www.facebook.com/notes/804884400052705/)
 - [[แปลมั่วปลาลวกจิ้ม] Endorfin. - Luminous Rage](https://www.facebook.com/notes/338934687412509/)
-- [[แปลเพลง] Remo Prototype (CV: Hanamori Yumiri) - Sendan Life +รีวิว](https://www.facebook.com/notes/388447588853116/)
+- [[แปลเพลง] Remo Prototype (CV: Hanamori Yumiri) - Sendan Life + รีวิว](https://www.facebook.com/notes/388447588853116/)
 
 ### 2016
 - [[แปลเพลง] HATSUNE MIKU V4X - Melody (English version)](https://www.facebook.com/notes/666071590711225/)
