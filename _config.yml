@@ -3,6 +3,6 @@ description: ชั้นเก็บงานแปลเก่า ๆ ขอ�
 markdown: kramdown
 google_analytics:
 theme: jekyll-theme-minimal
-include: [ 'LICENSE.md', 'TRANSLATIONS_LICENSE.md ]
+include: [ 'LICENSE.md', 'TRANSLATIONS_LICENSE.md' ]
 plugins:
    - jekyll-seo-tag
