@@ -1,5 +1,6 @@
 title: Translations Archive
 description: ชั้นเก็บงานแปลเก่า ๆ ของ Akara
+markdown: kramdown
 google_analytics:
 theme: jekyll-theme-minimal
 plugins:
