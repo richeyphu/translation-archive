@@ -31,9 +31,12 @@ html[data-theme="dark"] {
   } 
 }
 
+body {
+	background-color: var(--main-background-color);
+}
+
 body * {
 	font-family: 'Kanit', sans-serif;
-	background-color: var(--main-background-color);
 	color: var(--main-text-color);
 }
 
