@@ -1,4 +1,6 @@
-let systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)"); 
+// this checks whether system dark mode is set
+let systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)");
+// this checks for session storage telling to override the system preferences
 let theme = sessionStorage.getItem('theme');
 
 if (systemInitiatedDark.matches) {
