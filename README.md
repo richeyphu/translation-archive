@@ -45,6 +45,8 @@
 ### Source Code
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://richeyphu.github.io/translation-archive/LICENSE.html)
 
+---
+<a id="theme-toggle" onclick="modeSwitcher()"></a>
 
 <!--
 
