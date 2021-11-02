@@ -56,3 +56,7 @@ hr {
   	background-color: var(--horizontal-rule-color);
 	border: none;
 }
+
+blockquote {
+	border-left: 2px solid var(--horizontal-rule-color);
+}
