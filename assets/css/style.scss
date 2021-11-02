@@ -6,16 +6,16 @@
 
 html, html[data-theme="light"] {
     --link-color: rgb(0, 112, 201);
-    --main-background-color: hsl(0, 0%, 90%);
+    --main-background-color: hsl(0, 0%, 95%);
     --main-text-color: hsl(0, 0%, 20%);
-    --horizontal-rule-color: hsl(0, 0%, 35%);
+    --horizontal-rule-color: hsl(0, 0%, 40%);
 }
 
 html[data-theme="dark"] {
     --link-color: rgb( 100, 210, 255);
     --main-background-color: hsl(0, 0%, 20%);
     --main-text-color: hsl(0, 0%, 85%);
-	--horizontal-rule-color: hsl(0, 0%, 70%); 
+	--horizontal-rule-color: hsl(0, 0%, 65%); 
 }
 
 
@@ -52,8 +52,4 @@ hr {
 	height: 1px;
   	background-color: var(--horizontal-rule-color);
 	border: none;
-}
-
-blockquote {
-    background-color: var(--horizontal-rule-color);
 }
