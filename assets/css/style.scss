@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 
-@import "../../_sass/_variables.scss";
+@use 'variables';
 
 html, html[data-theme="light"] {
     --link-color: rgb(0, 112, 201);
