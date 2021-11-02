@@ -24,7 +24,7 @@
 
 ### 2016
 - [[แปลเพลง] HATSUNE MIKU V4X - Melody (English version)](https://www.facebook.com/notes/666071590711225/)
-- [[แปลเพลง] Hatsune Miku - Astronauts (アストロノーツ)](2016/HatsuneMiku-Astronauts.md)
+- [[แปลเพลง] Hatsune Miku - Astronauts (アストロノーツ)](posts/2016/HatsuneMiku-Astronauts.md)
 
 ---
 
