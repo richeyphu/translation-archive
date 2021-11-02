@@ -4,6 +4,8 @@
 @import "{{ site.theme }}";
 
 
+@import "../../_sass/_variables.scss";
+
 html, html[data-theme="light"] {
     --link-color: rgb(0, 112, 201);
     --main-background-color: hsl(0, 0%, 95%);
@@ -40,7 +42,8 @@ body {
 }
 
 body * {
-	font-family: 'Kanit', sans-serif;
+// 	font-family: 'Kanit', sans-serif;
+	font-family: $base-font-family;
 	color: var(--main-text-color);
 }
 
