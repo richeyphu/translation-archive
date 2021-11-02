@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 
-@use 'variables' as v;
+@import 'variables';
 
 html, html[data-theme="light"] {
     --link-color: rgb(0, 112, 201);
@@ -43,7 +43,7 @@ body {
 
 body * {
 // 	font-family: 'Kanit', sans-serif;
-	font-family: v.$base-font-family;
+	font-family: $base-font-family;
 	color: var(--main-text-color);
 }
 
