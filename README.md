@@ -23,7 +23,7 @@
 - [[แปลเพลง] Remo Prototype (CV: Hanamori Yumiri) - Sendan Life + รีวิว](https://www.facebook.com/notes/388447588853116/)
 
 ### 2016
-- [[แปลเพลง] HATSUNE MIKU V4X - Melody (English version)](https://www.facebook.com/notes/666071590711225/)
+- [[แปลเพลง] HATSUNE MIKU V4X - Melody (English version)](posts/2016/HatsuneMikuV4X-Melody.md)
 - [[แปลเพลง] Hatsune Miku - Astronauts (アストロノーツ)](posts/2016/HatsuneMiku-Astronauts.md)
 
 ---
