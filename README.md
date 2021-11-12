@@ -21,9 +21,9 @@
 - [[แปลเพลง] ALiCE'S EMOTiON - Kizuato (キズアト)](https://www.facebook.com/notes/804884400052705/)
 - [[แปลมั่วปลาลวกจิ้ม] Endorfin. - Luminous Rage](https://www.facebook.com/notes/338934687412509/)
 - [[แปลเพลง] Remo Prototype (CV: Hanamori Yumiri) - Sendan Life + รีวิว](https://www.facebook.com/notes/388447588853116/)
+- [[แปลเพลง] HATSUNE MIKU V4X - Melody (English version)](posts/2017/HatsuneMikuV4X-Melody.md)
 
 ### 2016
-- [[แปลเพลง] HATSUNE MIKU V4X - Melody (English version)](posts/2016/HatsuneMikuV4X-Melody.md)
 - [[แปลเพลง] Hatsune Miku - Astronauts (アストロノーツ)](posts/2016/HatsuneMiku-Astronauts.md)
 
 ---
