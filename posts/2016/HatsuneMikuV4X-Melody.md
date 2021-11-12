@@ -99,7 +99,8 @@ You looked back at me
 เธอมองกลับมาที่ฉัน
 
 And before I cried you said.  
-และก่อนที่น้ำตาฉันไหลเธอพูดว่า...
+และก่อนที่น้ำตาฉันไหล เธอพูดว่า...
 
+---
 
 > *เผยแพร่ครั้งแรกเมื่อ 9/3/2017 ทางเพจ <a href="https://www.facebook.com/notes/666071590711225/" target="_blank">Akaraプ</a>*
