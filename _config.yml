@@ -2,7 +2,7 @@ title: Translation Archive
 logo: /assets/img/logo.png
 description: ชั้นเก็บงานแปลเก่า ๆ ของ Akara
 markdown: kramdown
-google_analytics:
+google_analytics: G-LK56GY32GE
 theme: jekyll-theme-minimal
 include: [ 'LICENSE.md', 'TRANSLATIONS_LICENSE.md' ]
 plugins:
