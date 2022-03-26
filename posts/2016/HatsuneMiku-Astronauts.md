@@ -181,6 +181,3 @@ Mirenai mama dakedo sore mo ii kamo.
 
 > *เผยแพร่ครั้งแรกเมื่อ 8/10/2016 ทางเพจ <a href="https://www.facebook.com/notes/4450482041689008/" target="_blank">Akaraプ</a>*
 <!-- [Akaraプ](https://www.facebook.com/notes/4450482041689008/) -->
-
----
-<a id="theme-toggle" onclick="modeSwitcher()"></a>
