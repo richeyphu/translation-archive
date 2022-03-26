@@ -1,2 +1,12 @@
 <!-- JavaScript -->
 <script src="/translation-archive/assets/js/mode_switcher.js"></script>
+
+<script>
+// Apply theme  
+let theme = sessionStorage.getItem('theme');
+if (theme === "dark") {
+  document.documentElement.setAttribute('data-theme', 'dark');
+} else if (theme === "light") {
+  document.documentElement.setAttribute('data-theme', 'light');
+}
+</script>
