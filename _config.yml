@@ -7,3 +7,4 @@ theme: jekyll-theme-minimal
 include: [ 'LICENSE.md', 'TRANSLATIONS_LICENSE.md' ]
 plugins:
    - jekyll-seo-tag
+   - jemoji
