@@ -46,6 +46,9 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://richeyphu.github.io/translation-archive/LICENSE.html)
 
 ---
+
+![Hits](https://count.getloli.com/@richeyphu:translation-archive?name=richeyphu%3Atranslation-archive&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&prefix=0)
+
 <a id="theme-toggle" onclick="modeSwitcher()"></a>
 
 <!--
